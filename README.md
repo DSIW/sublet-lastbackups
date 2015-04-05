@@ -12,6 +12,13 @@ Shows the duration between last backup and current date for different backup int
 
 Run `sur install lastbackups`.
 
+or
+
+```
+sur build lastbackups.spec
+sur install lastbackups-0.1.sublet
+```
+
 ## Usage
 
 Your subtle config file could be:

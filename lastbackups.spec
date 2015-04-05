@@ -55,7 +55,7 @@ NOTES
     {
       :name        => "update_file",
       :type        => "String",
-      :description => "This file contains the backup interval information. One line has the following structure: backup_interval_name:last_backup_date.",
+      :description => "This file contains the backup interval information. One line has the following structure: backup_interval_name;last_backup_date.",
       :def_value   => "~/.lastbackups"
     },
     {
